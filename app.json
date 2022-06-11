@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/EvamariaTG/EvaMaria",
-    "repository": "https://github.com/mhlinkss/EvaMaria/edit/master/app.json",
+    "repository": "https://github.com/Autofilterb3/EvaMaria/edit/master/app.json",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
